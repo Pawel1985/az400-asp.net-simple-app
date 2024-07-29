@@ -28,3 +28,4 @@ C:\Users\kondratowiczp\OneDrive - Hays Specialist Recruitment\HAYS\git\az400-asp
 C:\Users\kondratowiczp\OneDrive - Hays Specialist Recruitment\HAYS\git\az400-asp-net-simple-app\az400simpleapp\obj\Debug\net8.0\az400simpleapp.pdb
 C:\Users\kondratowiczp\OneDrive - Hays Specialist Recruitment\HAYS\git\az400-asp-net-simple-app\az400simpleapp\obj\Debug\net8.0\az400simpleapp.genruntimeconfig.cache
 C:\Users\kondratowiczp\OneDrive - Hays Specialist Recruitment\HAYS\git\az400-asp-net-simple-app\az400simpleapp\obj\Debug\net8.0\ref\az400simpleapp.dll
+C:\Users\kondratowiczp\OneDrive - Hays Specialist Recruitment\HAYS\git\az400-asp-net-simple-app\az400simpleapp\obj\Debug\net8.0\az400simpleapp.sourcelink.json
