@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("az400simpleapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc7cf6fde0bfa0b9e704bbd71acbf81d549039ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0891beea0908a2683262e3a2a98e4b226fcd2816")]
 [assembly: System.Reflection.AssemblyProductAttribute("az400simpleapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("az400simpleapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
