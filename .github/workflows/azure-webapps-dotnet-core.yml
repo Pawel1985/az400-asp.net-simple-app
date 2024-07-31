@@ -16,7 +16,7 @@ on:
     branches: [ "main" ]
     paths-ignore:
      - '.github/**'
-     - '.githyb/workflows/*'
+     - '.github/workflows/*'
   workflow_dispatch:
 
 permissions:
